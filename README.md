@@ -1,4 +1,4 @@
-# Common Core Math Standards in many formats.
+# Common Core Math Standards available in many formats.
 
   + There are 664 items.
     + 517 standards
@@ -9,16 +9,16 @@
 
 There are three format groups in this repo.
 
-## Text files
+## [Text files](https://github.com/ccssapp/ccssmath/tree/main/textfiles)
   + Tab-separated value (TSV) plain text files.
   + Human readable without special software
   + Imports into spreadsheets
 
-## Workbooks
+## [Workbooks](https://github.com/ccssapp/ccssmath/tree/main/workbooks)
   + Microsoft Excel spreadsheet workbook
   + OpenOffice spreadsheet workbook
 
-## JSON
+## [JSON](https://github.com/ccssapp/ccssmath/tree/main/json)
   + JavaScript Object Notation
   + Ready for app developers
 
