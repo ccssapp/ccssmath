@@ -9,16 +9,16 @@
 
 There are three format groups in this repo.
 
-## [Text files](https://github.com/ccssapp/ccssmath/tree/main/textfiles)
+### [Text files](https://github.com/ccssapp/ccssmath/tree/main/textfiles)
   + Tab-separated value (TSV) plain text files.
   + Human readable without special software
   + Imports into spreadsheets
 
-## [Workbooks](https://github.com/ccssapp/ccssmath/tree/main/workbooks)
+### [Workbooks](https://github.com/ccssapp/ccssmath/tree/main/workbooks)
   + Microsoft Excel spreadsheet workbook
   + OpenOffice spreadsheet workbook
 
-## [JSON](https://github.com/ccssapp/ccssmath/tree/main/json)
+### [JSON](https://github.com/ccssapp/ccssmath/tree/main/json)
   + JavaScript Object Notation
   + Ready for app developers
 
